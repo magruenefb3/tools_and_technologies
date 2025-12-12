@@ -1,16 +1,16 @@
 {
   "search_criteria": {
-    "make": "VW",
-    "model": "Golf",
-    "price_max": 15000,
+    "make": "Mercedes",
+    "model": "SLK",
+    "price_max": 11000,
     "price_min": 5000,
     "mileage_max": 100000,
-    "year_min": 2018,
-    "fuel_type": ["Benzin", "Diesel", "Hybrid"],
+    "year_min": 2005,
+    "fuel_type": ["Diesel"],
     "transmission": ["Automatik", "Schaltgetriebe"],
     "location": {
-      "postal_code": "",
-      "radius_km": 50
+      "postal_code": "35582",
+      "radius_km": 100
     },
     "features": {
       "min_seats": 5,
@@ -22,7 +22,7 @@
   "notification_settings": {
     "enabled": true,
     "check_interval_hours": 24,
-    "price_alert_threshold": 12000
+    "price_alert_threshold": 11000
   },
   "platforms": {
     "autoscout24": {
