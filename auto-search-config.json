@@ -1,0 +1,42 @@
+{
+  "search_criteria": {
+    "make": "VW",
+    "model": "Golf",
+    "price_max": 15000,
+    "price_min": 5000,
+    "mileage_max": 100000,
+    "year_min": 2018,
+    "fuel_type": ["Benzin", "Diesel", "Hybrid"],
+    "transmission": ["Automatik", "Schaltgetriebe"],
+    "location": {
+      "postal_code": "",
+      "radius_km": 50
+    },
+    "features": {
+      "min_seats": 5,
+      "doors": 4,
+      "color": [],
+      "condition": "Gebraucht"
+    }
+  },
+  "notification_settings": {
+    "enabled": true,
+    "check_interval_hours": 24,
+    "price_alert_threshold": 12000
+  },
+  "platforms": {
+    "autoscout24": {
+      "enabled": true,
+      "priority": 1
+    },
+    "mobile_de": {
+      "enabled": true,
+      "priority": 2
+    },
+    "kleinanzeigen": {
+      "enabled": true,
+      "priority": 3
+    }
+  },
+  "notes": "Beispielkonfiguration - Passe die Werte nach deinen Wünschen an"
+}
