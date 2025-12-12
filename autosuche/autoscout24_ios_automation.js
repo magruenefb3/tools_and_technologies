@@ -13,16 +13,16 @@
 // KONFIGURATION - Passe diese Werte an
 // ========================================
 const CONFIG = {
-    make: "VW",
-    model: "Golf",
+    make: "Mercedes",
+    model: "SLK",
     priceMin: 5000,
-    priceMax: 15000,
+    priceMax: 11000,
     mileageMax: 100000,
-    yearMin: 2018,
-    fuelTypes: ["Benzin", "Diesel", "Hybrid"],  // Benzin, Diesel, Elektro, Hybrid
+    yearMin: 2005,
+    fuelTypes: ["Diesel"],  // Benzin, Diesel, Elektro, Hybrid
     transmissions: ["Automatik", "Schaltgetriebe"],  // Automatik, Schaltgetriebe
-    postalCode: "",  // Deine PLZ hier eingeben
-    radiusKm: 50
+    postalCode: "35582",  // Deine PLZ hier eingeben
+    radiusKm: 100
 };
 
 // ========================================
@@ -47,7 +47,11 @@ async function searchAutoScout24() {
         'Golf': '12920',
         'Passat': '12921',
         'Polo': '12922',
-        'Tiguan': '12923'
+        'Tiguan': '12923',
+        'SLK': '14944',
+        'C-Klasse': '14940',
+        'E-Klasse': '14941',
+        'A-Klasse': '14939'
     };
 
     const fuelMap = {

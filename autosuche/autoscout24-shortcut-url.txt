@@ -1,1 +1,1 @@
-https://www.autoscout24.de/lst?sort=standard&desc=0&ustate=N%2CU&size=20&page=1&cy=D&atype=C&ac=0&damaged_listing=exclude&powertype=kw&atype=C&make=79&model=12920&pricefrom=5000&priceto=15000&kmfrom=0&kmto=100000&fregfrom=2018&fuel=B%2CD%2C3&gear=A%2CM
+https://www.autoscout24.de/lst?sort=standard&desc=0&ustate=N%2CU&size=20&page=1&cy=D&atype=C&make=47&model=14944&pricefrom=5000&priceto=11000&kmfrom=0&kmto=100000&fregfrom=2005&fuel=D&gear=A%2CM&zip=35582&zipr=100

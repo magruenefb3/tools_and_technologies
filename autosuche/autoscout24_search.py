@@ -52,12 +52,16 @@ def build_autoscout24_url(config):
         'Citroen': '17'
     }
 
-    # Modell-IDs für VW Golf (Beispiel)
+    # Modell-IDs (häufigste Modelle)
     model_map = {
         'Golf': '12920',
         'Passat': '12921',
         'Polo': '12922',
-        'Tiguan': '12923'
+        'Tiguan': '12923',
+        'SLK': '14944',
+        'C-Klasse': '14940',
+        'E-Klasse': '14941',
+        'A-Klasse': '14939'
     }
 
     # Baue URL-Parameter
